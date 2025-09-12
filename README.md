@@ -1,1 +1,2 @@
-# Digital-Cash
+# digital-cash
+cash app
