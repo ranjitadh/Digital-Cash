@@ -1,2 +1,0 @@
-# digital-cash
-cash app
