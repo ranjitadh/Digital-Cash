@@ -22,6 +22,7 @@ export default function Home() {
       <GameType gameType={gameType} setGameType={setGameType} />
 
       <Ante players={players} playerMoney={playerMoney} setPlayerMoney={setPlayerMoney} />
+      
       <MoneySummary playerMoney={playerMoney} />
     </div>
   );
